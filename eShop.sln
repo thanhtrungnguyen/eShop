@@ -14,6 +14,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{14AE0D67-291A-4F9A-8269-EB17DEFC04B4}"
 	ProjectSection(SolutionItems) = preProject
 		.editorconfig = .editorconfig
+		data.sql = data.sql
 	EndProjectSection
 EndProject
 Global
